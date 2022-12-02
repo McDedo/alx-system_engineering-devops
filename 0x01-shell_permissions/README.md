@@ -1,1 +1,1 @@
-16. If only 
+14. Owner and group 
