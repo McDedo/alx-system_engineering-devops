@@ -1,1 +1,1 @@
-11. Directories count
+15. Count that word
