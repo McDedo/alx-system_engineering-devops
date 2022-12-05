@@ -1,1 +1,1 @@
-10. No more javascript
+11. Directories count
